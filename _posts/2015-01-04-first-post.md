@@ -1,7 +1,23 @@
 ---
 layout: post
-title: First post!
-image: /img/hello_world.jpeg
+title: Introduction to ham radio
+date:  2018-03-08 12:04:01 +0100
+comments: true
+description: Introduction to ham radio
+keywords: 'antenna, satellite, digital communication'
+published: true
 ---
 
-This is my first post, how exciting!
+Get the taste of ham radio :)
+
+<img src="https://milenalavanchy.github.io/assets/images/radio community.gif">
+You may have fun in joining the local radio community, the enjoyment of international radio contacts, or the adventure of operating from the field or mountain top with portable equipment. You may relish building your own circuits and antennas, experimenting with digital communication modes,  or you may explore at least few of the many diverse aspects that ham radio offers, learning along the way.
+
+* Antenna Theory and Design 
+* Accessing the satellites
+    * Configure the Terminal Node Controller (TNC) parameters.
+    * Set your transceiver
+    * Find the right time.
+    * Get the signal.
+* Kit Building
+
