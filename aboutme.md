@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: I like exploring
 subtitle: My place is where my heart belongs to and I'm excited to explore its lands and waters :)
 ---
 
