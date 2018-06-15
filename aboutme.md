@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: My place is where my heart belongs to and I'm excited to explore its lands and waters :)
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Things which make me happy, that I can spend hours doing:
+* exploring the diversity of functional areas, thus,  fostering a higher degree of technical and functional versatility, while refining a sense of relationship.
+* comparing, contrasting, and combining creative ideas to develop insights and alternative possibilities
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My main areas of interests are technology, compliance, and art. I have experience in UX/UI Design and Application Development, Application Support, Requirement management, Client Support and Problem Solving.
 
-What else do you need?
+Also, I'd like to share with you my interests in the use of free software and radio systems.
 
-### my history
+Moreover I am particularly interested in development of my public speaking skills at Toastmasters.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<img src="https://milenalavanchy.github.io/assets/images/image-about.jpg">
+
+And last but not least I like psycho-philosophy, poetry, music, dance and felines :)
