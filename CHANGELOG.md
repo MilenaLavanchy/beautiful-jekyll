@@ -1,13 +1,13 @@
 ---
 layout: page 
-#hp  {
-float: right;    
- margin: 0 0 0 15px;
-}
 title: 
 subtitle: My place is where my heart belongs to and I'm excited to explore its lands and waters :)
 use-site-title: true
 ---
+#hp  {
+float: right;    
+ margin: 0 0 0 15px;
+}
 <img src="hp.jpg" alt="" width="200" height="200" id="hp"/>
 
 
