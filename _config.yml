@@ -26,8 +26,9 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Toastmasters: "https://tmclub.eu/portal.php?marknow=0"
-    - Open Source: "https://www.theguardian.com/technology/opensource"
     - Favorite Cats Pictures:"https://github.com/MilenaLavanchy/Favorite-Cats-Pictures.md"
+    - Open Source: "https://www.theguardian.com/technology/opensource"
+    
   Contact: "aboutme"
   
 # Image to show in the navigation bar - image must be a square (width = height)
