@@ -23,12 +23,10 @@ description: My place is where my heart belongs to and I'm excited to explore it
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  About: "aboutme"
+  Interests: "http://deanattali.com/beautiful-jekyll/"
+  Contact: "http://www.markdowntutorial.com/"
+  
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
