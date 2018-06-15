@@ -15,3 +15,4 @@ Also, I'd like to share with you my interests in the use of free software and ra
 Moreover I am particularly interested in development of my public speaking skills at Toastmasters.
 
 And last but not least I like psycho-philosophy, poetry, music, dance and felines :)
+<img src="https://milenalavanchy.github.io/img/IMG-20180615-WA0027.jpg" width="100" height="150" align="left"> 
