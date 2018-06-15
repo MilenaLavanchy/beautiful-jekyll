@@ -1,9 +1,8 @@
 ---
 layout: page
-title: I like exploring
+title: <img src="https://milenalavanchy.github.io/img/IMG-20180615-WA0006.jpg" width="100" height="150"> I like exploring
 subtitle: My place is where my heart belongs to and I'm excited to explore its lands and waters :)
 ---
-<img src="https://milenalavanchy.github.io/img/IMG-20180615-WA0006.jpg" width="100" height="150">
 Things which make me happy, that I can spend hours doing:
 * exploring the diversity of functional areas, thus,  fostering a higher degree of technical and functional versatility, while refining a sense of relationship.
 * comparing, contrasting, and combining creative ideas to develop insights and alternative possibilities
