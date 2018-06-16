@@ -26,9 +26,9 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Toastmasters: "https://tmclub.eu/portal.php?marknow=0"
-    - Favorite Cats Pictures: "Favorite-Cats-Pictures.md"
+#- Favorite Cats Pictures: "Favorite-Cats-Pictures.md"
     - Open Source: "https://www.theguardian.com/technology/opensource"
-  Favorite Cats Pictures: "Favorite-Cats-Pictures.md.github.com"
+# Favorite Cats Pictures: "Favorite-Cats-Pictures.md.github.com"
   
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -71,11 +71,11 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  email: "someone@example.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
+ #  rss: true
+  email: "milena.lavanchy@gmail.com"
+ #  facebook: daattali
+  github: MilenaLavanchy
+ #  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
