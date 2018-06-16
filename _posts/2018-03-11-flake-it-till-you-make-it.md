@@ -11,7 +11,7 @@ Help yourself with free software :)
 
 Gpredict: Free, Real-Time Satellite Tracking and Orbit Prediction Software
 
-<img src="https://milenalavanchy.github.io/img/gpredict.jpeg">
+<img src="https://milenalavanchy.github.io/img/gpredict.jpeg" width="300" height="100">>
 
 GQRX:	Gqrx is a software defined radio receiver powered by GNU Radio and the Qt GUI toolkit. It can process I/Q data from RTL-based USB dongles, Funcube Dongle (FCD), Universal Software Radio Peripheral (USRP), and many other devices.
 <img src="https://milenalavanchy.github.io/img/gqrx.jpg">
