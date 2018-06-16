@@ -1,6 +1,6 @@
 ---
 layout: page 
-title: 
+title: Favorite-Cats-Pictures
 subtitle: My place is where my heart belongs to and I'm excited to explore its lands and waters :)
 use-site-title: true
 ---
