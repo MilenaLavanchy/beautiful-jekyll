@@ -25,7 +25,7 @@ description:
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Toastmasters: "https://tmclub.eu/portal.php?marknow=0"
+    - Toastmasters: "hamlet-monologue.md"
     - Favorite Cats Pictures: "https://github.com/MilenaLavanchy/milenalavanchy.github.io/Favorite-Cats-Pictures.md"
     - Open Source: "https://www.theguardian.com/technology/opensource"
   Favorite Cats Pictures: "https://github.com/MilenaLavanchy/milenalavanchy.github.io/Favorite-Cats-Pictures.md"
