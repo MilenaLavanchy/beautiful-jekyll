@@ -13,6 +13,10 @@ baseurl: ""
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
+include:
+- _pages
+
+
 # Name of website
 title: Milena Set of elements
 
