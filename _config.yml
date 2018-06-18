@@ -27,7 +27,7 @@ description:
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "dear-diary.md"
   Resources:
     - Toastmasters: "dear-diary.md"
     - Favorite Cats Pictures: "https://github.com/MilenaLavanchy/milenalavanchy.github.io/Favorite-Cats-Pictures.md"
