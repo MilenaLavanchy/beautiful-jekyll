@@ -1,4 +1,3 @@
-
 ---
 layout: page 
 title: Favorite-Cats-Pictures
